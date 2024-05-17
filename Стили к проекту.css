@@ -1,0 +1,99 @@
+.center {
+  text-align: right;
+  font-variant: small-caps;
+  font: small-caps bold 44px sans-serif;
+}
+
+.Osnov {
+  padding-left: 100px;
+  color: #F0FFF0;
+  font-size: 25px;
+  font: italic small-caps bold 16px/2 cursive;
+}
+
+.leftimg {
+  float:left; /* Выравнивание по левому краю */
+  margin: 10px 10px 10px 10px; /* Отступы вокруг картинки */
+  position: relative; 
+  right: 20px;
+ }
+
+ .columns-2 {
+  column-count: 2;
+}
+
+.grii {
+  padding-left: 420px;
+  font-variant: small-caps;
+  font-size: 2rem;
+}
+
+.cent {
+  padding-left: 50px;
+  color: #F0FFF0;
+  font-size: 4rem;
+  font: small-caps bold 44px sans-serif;
+}
+
+.titl {
+  padding-left: 50px;
+  color: #F0FFF0;
+  font-size: 4rem;
+  font: small-caps bold 44px sans-serif;
+}
+
+.Aa {
+  margin-top: 30px
+}
+
+
+
+
+
+
+.Osnova {
+  padding-left: 30px;
+  color: #f1fbf8;
+  font: italic small-caps bold 35px cursive;
+}
+
+.Osn {
+  padding-left: 30px;
+  color: #ddeddd;
+  font: italic small-caps bold 20px cursive;
+}
+
+.lefti {
+  float:left; /* Выравнивание по левому краю */
+  margin: 10px 10px 10px 10px; /* Отступы вокруг картинки */
+  position: relative; 
+  right: 20px;
+  width: 150px
+ }
+
+ .Os {
+  padding-left: 30px;
+  color: #e1cdcd;
+  font: italic small-caps bold 35px cursive;
+}
+
+.Osa {
+  padding-left: 30px;
+  color: #e1cdcd;
+  font: italic small-caps bold 21px cursive;
+}
+
+.rightimg  {
+  float: right; /* Выравнивание по правому краю  */ 
+  margin: 20px 10px 10px 10px; /* Отступы вокруг картинки */
+  position: relative; 
+  right: 30px;
+  width: 400px;
+ }
+
+ .leftig {
+  float:left; /* Выравнивание по левому краю */
+  margin: 10px 10px 10px 50px; /* Отступы вокруг картинки */
+  position: relative; 
+  right: 20px;
+ }
